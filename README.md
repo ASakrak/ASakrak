@@ -5,5 +5,6 @@
 
 - 📫 How to reach me **ahmetfsakrak2021@outlook.com**
 
+<img aling="center" width="350" src="https://user-images.githubusercontent.com/66999194/120017909-1b3cf200-bfef-11eb-99e6-24d7b566bc82.png">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masterlnxy&show_icons=true&locale=en&layout=compact" alt="masterlnxy" /></p>
+
