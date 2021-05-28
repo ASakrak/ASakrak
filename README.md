@@ -4,5 +4,5 @@
 - 📫 How to reach me **ahmetfsakrak2021@outlook.com**
 
 
-![](images/4readme.png)
+
 
