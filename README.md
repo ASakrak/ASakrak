@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ahmetfsakrak2021@outlook.com**
 
-<img src="https://user-images.githubusercontent.com/66999194/120014796-2db52c80-bfeb-11eb-99db-4111b207a5ef.png" width="355" >
+<img src="https://user-images.githubusercontent.com/66999194/120015045-7f5db700-bfeb-11eb-9bc0-0bc229fac5f9.png" width="355" >
 
 
 
