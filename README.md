@@ -5,7 +5,5 @@
 
 - 📫 How to reach me **ahmetfsakrak2021@outlook.com**
 
+<img src="https://user-images.githubusercontent.com/66999194/133887953-18349675-2125-45e3-a983-206441369fa6.png" width="200" height="200" />
 
-<img src="Untitled-1.png" alt="drawing" width="200"/>
-
-![Untitled-1](https://user-images.githubusercontent.com/66999194/133887953-18349675-2125-45e3-a983-206441369fa6.png)
