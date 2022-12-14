@@ -5,4 +5,4 @@
 
 
 
-<p align="center"> <img width="100" height="100"  src="https://user-images.githubusercontent.com/66999194/207706051-834a7b8a-ff41-4a2b-a089-b255136312e2.png"> </p>!
+<p align="center"> <img width="200" height="200"  src="https://user-images.githubusercontent.com/66999194/207706051-834a7b8a-ff41-4a2b-a089-b255136312e2.png"> </p>
