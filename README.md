@@ -4,9 +4,5 @@
 - 📫 How to reach me **Asakrak2022@outlook.com**
 
 
-<p align="center">
-![Yoda](https://raw.githubusercontent.com/scarmuega/choose-your-side/master/yoda.svg?sanitize=true#gh-light-mode-only)
- </p>
-<p align="center">
-  ![Vader](https://raw.githubusercontent.com/scarmuega/choose-your-side/master/vader.svg?sanitize=true#gh-dark-mode-only)
-</p>
+
+<p align="center"> <img width="250" height="220" src="https://user-images.githubusercontent.com/66999194/207706051-834a7b8a-ff41-4a2b-a089-b255136312e2.png"> </p>!
